@@ -1,0 +1,20 @@
+.divvone {
+    width: 400px;
+    margin: auto;
+}
+
+.divvone img {
+    width: 100px;
+    height: 150px;
+    margin: 10px;
+}
+
+h1, p{
+    margin: auto;
+    text-align: center;
+    font-family: 'Perpetua';
+}
+
+h1 {
+    font-size: 50px;
+}
